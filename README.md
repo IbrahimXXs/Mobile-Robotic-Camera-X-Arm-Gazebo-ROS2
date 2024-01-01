@@ -48,3 +48,6 @@ Clone the repository and run the provided Python script to execute the heart dis
 Ibrahim Sarraj <3
 This project is licensed under the MIT License. Feel free to contribute, provide feedback, or raise issues if you encounter any problems. Happy coding!
 
+![1_6NKq7_5N2KCN7eQiL8c1Ww](https://github.com/IbrahimXXs/Mobile-Robotic-Camera-X-Arm-Gazebo-ROS2/assets/146712453/df3f9010-f116-409d-a589-5dcacd8f2493)
+
+
