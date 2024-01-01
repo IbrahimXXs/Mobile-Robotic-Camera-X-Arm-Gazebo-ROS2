@@ -27,7 +27,5 @@ Please ensure you have these dependencies installed on your system before procee
 #### Installation:
 
 
-https://github.com/IbrahimXXs/Mobile-Robotic-Camera-X-Arm-Gazebo-ROS2/assets/146712453/43b56593-ee26-4124-9494-8e85b71f39ae
 
-https://classic.gazebosim.org/tutorials?tut=install_ubuntu
 
