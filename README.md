@@ -26,6 +26,8 @@ To run and test this project, you'll need the following dependencies installed:
 
 * Gazebo: Installation Guide
 
+![ROS2 GAZEBO](https://github.com/IbrahimXXs/Mobile-Robotic-Camera-X-Arm-Gazebo-ROS2/assets/146712453/f78c7856-485d-4631-bbd9-df0333059dba)
+
 Please ensure you have these dependencies installed on your system before proceeding with the project setup.
 
 #### Installation & Review:
