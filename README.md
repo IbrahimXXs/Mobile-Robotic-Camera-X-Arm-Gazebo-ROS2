@@ -21,7 +21,9 @@
 To run and test this project, you'll need the following dependencies installed:
 
 ROS2: Installation Guide
+
 Gazebo: Installation Guide
+
 Please ensure you have these dependencies installed on your system before proceeding with the project setup.
 
 #### Installation:
