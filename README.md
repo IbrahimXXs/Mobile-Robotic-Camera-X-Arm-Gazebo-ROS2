@@ -20,14 +20,27 @@
 
 To run and test this project, you'll need the following dependencies installed:
 
-ROS2: Installation Guide
+* ROS2: Installation Guide
 
-Gazebo: Installation Guide
+* Gazebo: Installation Guide
 
 Please ensure you have these dependencies installed on your system before proceeding with the project setup.
 
-#### Installation:
+#### Installation & Review:
 
 
+https://github.com/IbrahimXXs/Mobile-Robotic-Camera-X-Arm-Gazebo-ROS2/assets/146712453/58d42373-e0a2-44b9-8b09-8f4156d43e72
 
+
+https://github.com/IbrahimXXs/Mobile-Robotic-Camera-X-Arm-Gazebo-ROS2/assets/146712453/ae38662b-bbb5-4956-a08c-c511fbf3954f
+
+
+#### Usage:
+
+Clone the repository and run the provided Python script to execute the heart disease prediction models. Customize the models, parameters, or dataset as needed for your specific use case.
+
+#### License:
+
+Ibrahim Sarraj <3
+This project is licensed under the MIT License. Feel free to contribute, provide feedback, or raise issues if you encounter any problems. Happy coding!
 
