@@ -2,7 +2,7 @@
 
 ## Overview
 
-#### *This project is focused on creating a simulated environment for a mobile base robotic arm and a mobile robot equipped with a mounted camera. The simulation is powered by Gazebo and ROS2, providing a realistic testing ground for robotic applications.*
+#### *This project is focused on creating a simulated environment as well as a mobile base robotic arm and a mobile robot equipped with a mounted camera. The simulation is powered by Gazebo and ROS2, providing a realistic testing ground for robotic applications.*
 
 ![Complete](https://github.com/IbrahimXXs/Mobile-Robotic-Camera-X-Arm-Gazebo-ROS2/assets/146712453/6c183083-39da-4b73-962d-d9fc09ceafcf)
 
