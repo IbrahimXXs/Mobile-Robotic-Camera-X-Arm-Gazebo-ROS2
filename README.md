@@ -18,6 +18,8 @@
 
 * RViz2 Integration: RViz2, a 3D visualization tool for ROS2, is integrated into the project. It serves as a valuable tool for visualizing the robot model, TFs, and sensor data, aiding in debugging and understanding the robot's state.
 
+* Rqt_graph for Node Visualization: Rqt_graph is utilized to visualize the ROS2 node graph. It provides a graphical representation of the communication between nodes, allowing for a clear understanding of the data flow within the robotic system. This is particularly useful for debugging and optimizing the communication between different components.
+
 #### Dependencies:
 
 To run and test this project, you'll need the following dependencies installed:
